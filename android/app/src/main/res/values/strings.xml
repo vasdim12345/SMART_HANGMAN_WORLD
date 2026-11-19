@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SMART HANGMAN</string>
+    <string name="title_activity_main">SMART HANGMAN</string>
+    <string name="package_name">com.smarthangman.world</string>
+    <string name="custom_url_scheme">com.smarthangman.world</string>
+</resources>
